@@ -250,10 +250,8 @@ data3 = {
     'Actual_Train3': label3_train,
 }
 
-
 'Predicted_Train1': predictions_model1,
 'Actual_Train1': label1_train,
-
 
 'Predicted_Test2': predictions_test_model2,
 'Actual_Test2': label2_test
